@@ -11,7 +11,6 @@
 ## Sobre mim
 Sou desenvolvedor web, formado em Sistemas para Internet na UniBH e pós-graduado em Engenharia de Software Ágil pelo IGTI.
 
-Atualmente trabalho em uma empresa de advocacia como responsável por sistemas internos de apoio jurídico/financeiro, riscos trabalhistas e ordens de serviço.
 
 Estou sempre aprendendo e experimentando novas tecnologias.
 
